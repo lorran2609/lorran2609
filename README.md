@@ -7,7 +7,7 @@
 - 💻Desenvolvedor e Ethical Hacker 
 
 ## 🏗️ **Habilidades**  
-🔹 Desenvolvimento em `C`  
+🔹 Desenvolvimento em `C#`  
 🔹 Segurança & Pentest (`Kali Linux`, `Sqlmap`, `Metasploit`)  
 🔹 LGPD & Proteção de Software 
 🔹 Primo do Omar e do Barros
