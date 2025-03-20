@@ -1,5 +1,5 @@
 #lorran2609
-![Hacker codando](https://github.com/lorran2609/lorran2609/raw/main/cod.gif)
+![Hacker codando](https://github.com/lorran2609/lorran2609/raw/main/cod1.gif)
 
 ---
 
