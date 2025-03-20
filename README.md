@@ -1,4 +1,4 @@
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=00AEEF&center=true&vCenter=true&multiline=true&width=500&height=80&lines=🧑‍💻+Steve+está+codando...;💻+Formatando+um+Bloco+de+Comandos!;+⛏️+Programando+o+Mundo!)
+![Steve codando](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRibmMzdHp5aWgzd3J1d3huN2U4cHIyYm50bzU0ZzN2cnJpMmFqZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif)
 
 ---
 
