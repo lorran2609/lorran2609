@@ -16,8 +16,8 @@
 🏅 Curso de Defesa de Redes pelo Batalhão de Guerra Eletrônica do Exército
 
 🏅 Curso de Proteção de Software e Segurança da IA pelo Santander X  
-  <br><br>
-  <h3> ## 📫 Como entrar em contato comigo: </h3>
+
+## 📫 **Como entrar em contato comigo:** </h3>
   <ul>
     <li><a href="https://api.whatsapp.com/send?phone=5528999881802" style="color: white;">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Icon"/>
