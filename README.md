@@ -1,16 +1,15 @@
-## Hi there 👋
+![Minecraft Animation](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=4ADE80&center=true&vCenter=true&multiline=true&width=500&height=80&lines=⛏️+Quebrando+Blocos...;🎮+Subindo+de+nível!;+🌱+Explorando+novos+biomas!)
 
-<!--
-**lorran2609/lorran2609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌍 **Sobre mim**  
+- 💻Desenvolvedor e Ethical Hacker 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏗️ **Habilidades**  
+🔹 Desenvolvimento em `C`  
+🔹 Segurança & Pentest (`Kali Linux`, `Nmap`, `Metasploit`)  
+🔹 LGPD & Proteção de Software  
+
+## 🏆 **Conquistas**
+🏅 Curso de Defesa de Redes pelo Batalhão de Guerra Cibernética do Exército
+🏅 Curso de Proteção de Software e Segurança da IA pelo Santander X  
