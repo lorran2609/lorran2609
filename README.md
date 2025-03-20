@@ -9,12 +9,11 @@
 ## 🏗️ **Habilidades**  
 🔹 Desenvolvimento em `C#`  
 🔹 Segurança & Pentest (`Kali Linux`, `Sqlmap`, `Metasploit`)  
-🔹 LGPD & Proteção de Software 
+🔹 LGPD & Proteção de Software  
 🔹 Primo do Omar e do Barros
 
 ## 🏆 **Conquistas**
-🏅 Curso de Defesa de Redes pelo Batalhão de Guerra Eletrônica do Exército
-
+🏅 Curso de Defesa de Redes pelo Batalhão de Guerra Eletrônica do Exército  
 🏅 Curso de Proteção de Software e Segurança da IA pelo Santander X  
 
 ## 📫 **Como entrar em contato comigo:** </h3>
