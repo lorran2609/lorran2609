@@ -37,3 +37,8 @@
     <img align="center" height="30" width="40" alt="linux" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg"></img>
     <img align="center" height="30" width="40" alt="visualstudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></img>
   </div
+##
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<br></div>
