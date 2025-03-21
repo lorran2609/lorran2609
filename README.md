@@ -2,7 +2,7 @@
 ![Hacker codando](https://github.com/lorran2609/lorran2609/raw/main/dragao1.gif)
 
 ---
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lorran&bg_color=000000&color=#1E1F53&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lorran&bg_color=#1E1F53&color=#1E1F53&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌍 **Sobre mim**  
 - 💻Desenvolvedor e Ethical Hacker 
