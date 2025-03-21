@@ -9,15 +9,15 @@
 </div>
 
 ## 🌍 **Sobre mim**  
-- 💻Desenvolvedor e Ethical Hacker 
+- 💻Desenvolvedor e Pentester
 
 ## 🏗️ **Habilidades**  
-🔹 Desenvolvimento em `C#`  
-🔹 Segurança & Pentest (`Kali Linux`, `Sqlmap`, `Metasploit`)  
+🔹 Estudando desenvolvimento em `C#`  
+🔹 Segurança & Pentest (`Kali Linux`, `Sqlmap`)  
 🔹 LGPD & Proteção de Software
 
 ## 🏆 **Conquistas**
-🏅 Curso de Defesa de Redes pelo Centro de Comunicações e Guerra Eletrônica do Exército  
+🏅 Cursando Defesa de Redes pelo Centro de Comunicações e Guerra Eletrônica do Exército  
 🏅 Curso de Proteção de Software e Segurança da IA pelo Santander X  
 
 ## 📫 **Como entrar em contato comigo:** </h3>
