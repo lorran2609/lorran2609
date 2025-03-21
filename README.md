@@ -14,7 +14,8 @@
 ## 🏗️ **Habilidades**  
 🔹 Estudando desenvolvimento em `C#`  
 🔹 Segurança & Pentest (`Kali Linux`, `Sqlmap`)  
-🔹 LGPD & Proteção de Software
+🔹 LGPD & Proteção de Software  
+🔹 Primo do Omar
 
 ## 🏆 **Conquistas**
 🏅 Cursando Defesa de Redes pelo Centro de Comunicações e Guerra Eletrônica do Exército  
