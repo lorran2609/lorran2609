@@ -1,5 +1,5 @@
 #lorran2609
-![Hacker codando](<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/NTHO" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">através de GIFER</a></p>)
+![Hacker codando]( )
 
 ---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lorran&bg_color=000000&color=4169E1&line=27408B&point=1E3A5F&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
