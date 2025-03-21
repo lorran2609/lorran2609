@@ -1,7 +1,7 @@
 ![Cat](https://github.com/lorran2609/lorran2609/raw/main/3frd.gif)
 
 ---
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lorran&bg_color=000000&color=4169E1&line=27408B&point=1E3A5F&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](./profile-3d-contrib/profile-night-view.svg)
 
 ## 🌍 **Sobre mim**  
 - 💻Desenvolvedor e Ethical Hacker 
