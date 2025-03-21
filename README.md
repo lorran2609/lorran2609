@@ -36,5 +36,5 @@
     <img align="center" height="30" width="40" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></img>
     <img align="center" height="30" width="40" alt="linux" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg"></img>
     <img align="center" height="30" width="40" alt="visualstudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></img>
-    <img aling="center" height="30" width="40" alt="vscode" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg"></div>/img>
-  </div>
+    <img aling="center" height="30" width="40" alt="vscode" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg"></div>
+  </div
