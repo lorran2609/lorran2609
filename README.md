@@ -1,7 +1,7 @@
 ![Cat](https://github.com/lorran2609/lorran2609/raw/main/3frd.gif)
 
 ---
-![contribuitions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={transparent})
+![contribuitions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={vn7n24fzkq}&theme={transparent})
 
 ## 🌍 **Sobre mim**  
 - 💻Desenvolvedor e Ethical Hacker 
