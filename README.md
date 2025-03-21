@@ -1,4 +1,3 @@
-#lorran2609
 ![Cat](https://github.com/lorran2609/lorran2609/raw/main/3frd.gif)
 
 ---
