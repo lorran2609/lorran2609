@@ -12,7 +12,7 @@
 🔹 LGPD & Proteção de Software
 
 ## 🏆 **Conquistas**
-🏅 Curso de Defesa de Redes pelo Centro de Comunicações e Guerra Eletrônica do Exército
+🏅 Curso de Defesa de Redes pelo Centro de Comunicações e Guerra Eletrônica do Exército  
 🏅 Curso de Proteção de Software e Segurança da IA pelo Santander X  
 
 ## 📫 **Como entrar em contato comigo:** </h3>
