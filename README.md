@@ -44,5 +44,5 @@
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
 <a href="https://github.com/lorran2609">
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lorran2609}/count.svg" /></p> 
 <br></div>
