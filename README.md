@@ -5,6 +5,7 @@
 ##
 
 <div align="center">  
+  <a href="https://github.com/lorran2609">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lorran2609&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117&count_private=true&stars=42&repos=67" alt="Lorran GitHub Stats"/> 
 </div>
 
@@ -42,5 +43,6 @@
 
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
+<a href="https://github.com/lorran2609">
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
 <br></div>
