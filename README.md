@@ -6,7 +6,7 @@
 
 <div align="center">  
   <a href="https://github.com/lorran2609">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lorran2609&show_icons=true&count_private=true&hide_border=true&title_color=#2237a1&icon_color=#2237a1a&text_color=#2f3140&bg_color=0d1117&count_private=true" alt="Lorran github stats"/> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lorran2609&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=C0C0C0&bg_color=0d1117"/> 
 </div>
 
 ## 🌍 **Sobre mim**  
