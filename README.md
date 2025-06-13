@@ -17,10 +17,6 @@
 🔹 Segurança & Pentest (`Kali Linux`, `Sqlmap`)  
 🔹 LGPD & Proteção de Software
 
-## 🏆 **Conquistas**
-🏅 Cursando Defesa de Redes pelo Centro de Comunicações e Guerra Eletrônica do Exército  
-🏅 Curso de Proteção de Software e Segurança da IA pelo Santander X  
-
 ## 📫 **Como entrar em contato comigo:** </h3>
   <ul>
     <li><a href="https://api.whatsapp.com/send?phone=5528999142609" style="color: white;">
