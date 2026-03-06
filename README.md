@@ -10,12 +10,10 @@
 </div>
 
 ## 🌍 **Sobre mim**  
-- 💻Desenvolvedor e Pentester
+- 💻Desenvolvedor
 
 ## 🏗️ **Habilidades**  
-🔹 Estudando desenvolvimento em `C#`  
-🔹 Segurança & Pentest (`Kali Linux`, `Sqlmap`)  
-🔹 LGPD & Proteção de Software
+🔹 Estudando desenvolvimento em `C#, HTML/CSS/JS  `  
 
 ## 📫 **Como entrar em contato comigo:** </h3>
   <ul>
