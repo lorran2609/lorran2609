@@ -34,8 +34,8 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/your-github-username?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/your-github-username">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/lorran2609?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/lorran2609">
 </picture>
 
 <br></div>
