@@ -33,7 +33,9 @@
 ##
 
 <div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<a href="https://github.com/lorran2609">
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lorran2609}/count.svg" /></p> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/your-github-username?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/your-github-username">
+</picture>
+
 <br></div>
