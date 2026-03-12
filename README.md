@@ -22,6 +22,12 @@
     <li><a href="https://br.linkedin.com/in/lorran-gomes-moreira-1429b0332">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Icon"/></a></li>
   </ul>
+  <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/lorran2609?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/lorran2609">
+</picture>
+</div>
    <div style="display: inline-block"><br>
     <img align="center" height="30" width="40" alt="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></img>
     <img align="center" height="30" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></img>
@@ -31,11 +37,3 @@
   </div
     
 ##
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/lorran2609?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/lorran2609">
-</picture>
-
-<br></div>
