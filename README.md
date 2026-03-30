@@ -4,13 +4,6 @@
 
 ##
 
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/lorran2609?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/lorran2609">
-</picture>
-</div>
 <div align="center">  
   <a href="https://github.com/lorran2609">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lorran2609&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=C0C0C0&bg_color=0d1117"/> 
