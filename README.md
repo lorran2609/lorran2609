@@ -52,18 +52,6 @@
 
 ---
 
-## ⚙️ Tecnologias que utilizo  
-
-<div style="display: inline-block"><br>
-  <img align="center" height="30" width="40" alt="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" height="30" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" height="30" width="40" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" height="30" width="40" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" height="30" width="40" alt="visualstudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-</div>
-
----
-
 ## 🚀 Objetivo  
 
 Atuar como desenvolvedor Full Stack, criando soluções web eficientes, seguras e escaláveis, com foco em qualidade de código e boas práticas de desenvolvimento.
