@@ -1,4 +1,4 @@
-<h1 align="center">💻 Desenvolvedor Full Stack | Desenvolvedor Web | Dev C#</h1>
+<h1 align="center">Desenvolvedor Full Stack | Desenvolvedor Web | Dev C#</h1>
 
 <div align="center">
 <picture>
@@ -15,14 +15,14 @@
 
 ---
 
-## 🌍 Sobre mim  
+## Sobre mim  
 🎓 Estudante técnico em Desenvolvimento de Sistemas pelo SENAI  
 💻 Focado em desenvolvimento Full Stack e aplicações web 
 🚀 Buscando oportunidades para aplicar meus conhecimentos na prática  
 
 ---
 
-## 🏗️ Habilidades  
+## Habilidades  
 
 🔹 **Linguagens e Tecnologias:**  
 - C#  
